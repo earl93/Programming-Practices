@@ -24,7 +24,7 @@ public static int[] rightHalf(int[] arr){
 	int size = arr.length - leftSize;
 	int[] right = new int[size];
 	for(int i = 0; i < size; i++){
-		right[i] = arr[i + leftSize];
+		right[i] = arr[leftSize + i];
 	}
 	return right;
 }
