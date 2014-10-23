@@ -37,4 +37,4 @@ ToDo
 * Javascript - deepCopy for objects
 * Javascript - deferred & promises 
 * Java - Map Reduce
-
+* Java, C - fast doubling fibonacci
