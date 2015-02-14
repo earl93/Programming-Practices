@@ -1,7 +1,7 @@
 Programming-Practices
 =====================
 
-Code Snippets to practice programming
+Code snippets for algorithm related concepts and problems
 
 Java
 -----------
@@ -34,6 +34,7 @@ C
 
 ToDo
 ----------
+* Binary search on multiple-dimension arrays
 * Javascript - deepCopy for objects
 * Javascript - deferred & promises 
 * Java - Map Reduce
